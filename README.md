@@ -12,4 +12,3 @@
 
 ## NISH TECH-STACKS
 
-[<img src="https://github.com/NishitaErvantikar9/NishitaErvantikar9/blob/main/Images-Readme/TECHNOLOGIES/image_part_001.jpg" height="60px" width="100px">](https://github.com/NishitaErvantikar9/Web-Development-Bootcamp)
